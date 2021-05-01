@@ -10,10 +10,6 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Unofficial: tollerdl.1234@gmail.com)
 &nbsp;
 
-# MY TOOLS AND LANG
-
-- ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
-
 # MY STATUS
 
 ![ՏհɑƘíժɑ's github stats](https://github-readme-stats.vercel.app/api?username=shakida&show_icons=true&theme=midnight-purple)
