@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 # MY STATUS
 
 ![ՏհɑƘíժɑ's github stats](https://github-readme-stats.vercel.app/api?username=shakida&show_icons=true&theme=midnight-purple)
-- ![Profile views](https://gpvc.arturio.dev/imjanindu)
+- ![Profile views](https://gpvc.arturio.dev/shakida)
 - [![GitHub followers](https://img.shields.io/github/followers/shakida.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shakida?tab=followers)
 
 # MOST USED LANGUAGE
@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=shakida&theme=red-green)
 
 
-## 🍁 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/shakida) 
+## 🍁 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/shakida69) 
 <br>
 
 
