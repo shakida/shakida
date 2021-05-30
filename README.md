@@ -20,5 +20,6 @@ You can use the website to generate badges: https://shields.io/
 ## 🍁 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/shakida69) 
 <br>
 
-
+## Active Status
+[![Main Shakida](https://github.com/shakida/v2soom/actions/workflows/shakidaxx.yml/badge.svg)](https://github.com/shakida/v2soom/actions/workflows/shakidaxx.yml)
 
