@@ -23,3 +23,4 @@ You can use the website to generate badges: https://shields.io/
 ## Status:
 [![Main Shakida](https://github.com/shakida/v2soom/actions/workflows/shakidaxx.yml/badge.svg)](https://github.com/shakida/v2soom/actions/workflows/shakidaxx.yml)
 [![MirrorBot Environment](https://github.com/shakida/gei/actions/workflows/mirror-bot.yml/badge.svg?branch=main)](https://github.com/shakida/gei/actions/workflows/mirror-bot.yml)
+[![Shakida Stream](https://github.com/shakida/Stream_any/actions/workflows/shakida69.yml/badge.svg?branch=main)](https://github.com/shakida/Stream_any/actions/workflows/shakida69.yml)
