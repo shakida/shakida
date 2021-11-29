@@ -16,3 +16,7 @@
 ### 🏆 Github Profile Trophy
 
 [<img src="https://github-profile-trophy.vercel.app/?username=shakida&theme=darkhub&no-bg=true&row=1" alt="shakida" />](#)
+### 🌠 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakida&layout=compact)](https://github.com/shakida/github-readme-stats)
+
+
