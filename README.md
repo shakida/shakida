@@ -18,6 +18,9 @@ You can use the website to generate badges: https://shields.io/
 ### 🏆 Github Profile Trophy
 
 [<img src="https://github-profile-trophy.vercel.app/?username=rokibhasansagar&theme=darkhub&no-bg=true&row=1" alt="shakida" />](#)
+### 🔥 Github Streak Stats
+
+[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakida&theme=tokyonight_duo" alt="shakida" />](#)
 
 ## 🍁 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/shakida69) 
 <br>
