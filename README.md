@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 [<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakida&theme=tokyonight_duo" alt="shakida" />](#)
 
 ### 🔗 Social handler:
-[![biswajyoti_ray](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![biswajyoti_ray](https://img.icons8.com/fluent/48/000000/twitter.png)][https://twitter.com/biswajyoti_ray]
 [![shakida](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
 [![shakida](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 [![shakida](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
@@ -31,3 +31,4 @@ You can use the website to generate badges: https://shields.io/
 [instagram]: https://instagram.com/biswa.j.r
 [telegram]: https://t.me/shakida
 [facebook]: https://www.facebook.com/biswajyoti.ray.98
+<img src="https://img.icons8.com/ios/50/000000/facebook-new.png"/>
