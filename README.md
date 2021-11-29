@@ -5,12 +5,12 @@
 |       **[ՏհɑƘíժɑ](https://github.com/shakida/)**                                                                                |
 | <a href="https://github.com/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/github.svg" width="40px" height="40px"></a> <a href="https://t.me/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" width="40px" height="40px"></a> <a href="https://instagram.com/biswa.j.r"><img src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" width="40px" height="40px"></a> <a href="mailto:tollerdl.1234@gmail.com"><img src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" width="40px" height="40px"></a>|
 ### 🍁 About me
-- 📚 I'm 19 years old student;
-- 📖 I’m currently learning coding languages; 
-- 💡 I'm beginner can you teach me?;
-- 🤗 You can ask me anything, *always friendly;
-- ✨ I'm from West Bengal 🇮🇳 [India];
-- 🎶 I like listening to music;
+- 📚 I'm 19 years old student
+- 📖 I'm currently learning coding languages
+- 💡 I'm beginner can you teach me?
+- 🤗 You can ask me anything, *always friendly
+- ✨ I'm from West Bengal 🇮🇳 [India]
+- 🎶 I like listening to music
 ### 💡 GitHub Stats
 ![ՏհɑƘíժɑ's github stats](https://github-readme-stats.vercel.app/api?username=shakida&show_icons=true&theme=midnight-purple)
 ### 🔥 Github Streak Stats
