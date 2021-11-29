@@ -8,15 +8,18 @@
 ### 💡 GitHub Stats
 ![ՏհɑƘíժɑ's github stats](https://github-readme-stats.vercel.app/api?username=shakida&show_icons=true&theme=midnight-purple)
 ### 🔥 Github Streak Stats
-
 [<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakida&theme=tokyonight_duo" alt="shakida" />](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakida&layout=compact)](https://github.com/shakida/github-readme-stats)
 
 - ![Profile views](https://gpvc.arturio.dev/shakida)
 - [![GitHub followers](https://img.shields.io/github/followers/shakida.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shakida?tab=followers)
+
+
+
+
+
+
 ### 🏆 Github Profile Trophy
-
 [<img src="https://github-profile-trophy.vercel.app/?username=shakida&theme=darkhub&no-bg=true&row=1" alt="shakida" />](#)
-### 🌠 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakida&layout=compact)](https://github.com/shakida/github-readme-stats)
-
 
