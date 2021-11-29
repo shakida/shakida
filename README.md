@@ -27,3 +27,7 @@ You can use the website to generate badges: https://shields.io/
 [![shakida](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
 [![shakida](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 [![shakida](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
+[twitter]: https://twitter.com/biswajyoti_ray
+[instagram]: https://instagram.com/biswa.j.r
+[telegram]: https://t.me/shakida
+[facebook]: https://www.facebook.com/biswajyoti.ray.98
