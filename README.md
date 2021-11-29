@@ -1,5 +1,4 @@
 # Hey, I am ՏհɑƘíժɑ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<p align="center"> <h1 align="center"> Shakida </h1> </p>
 
 |<a href="https://github.com/shakida"><img src="https://telegra.ph/file/049806d6b589bc355de83.jpg" width="300px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
