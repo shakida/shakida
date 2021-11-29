@@ -22,5 +22,8 @@ You can use the website to generate badges: https://shields.io/
 
 [<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakida&theme=tokyonight_duo" alt="shakida" />](#)
 
-## 🍁 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/shakida69) 
-<br>
+### 🔗 Social handler:
+[![shakida](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![shakida](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![shakida](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+[![shakida](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
