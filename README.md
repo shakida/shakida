@@ -1,4 +1,11 @@
 # Hey, I am ՏհɑƘíժɑ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<p align="center"> <h1 align="center"> Janindu Malshan </h1> </p>
+
+|<a href="https://t.me/imjanindu/"><img src="https://telegra.ph/file/c95070b46576b30d5c852.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|       **[Portfolio](https://janindu.com)**                                                                                |
+| <a href="https://github.com/imjanindu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://facebook.com/imjanindu"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://instagram.com/imjanindu"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a>|
+
 
 <a href="https://t.me/shakida69"><img align='centre' src='https://telegra.ph/file/049806d6b589bc355de83.jpg' width='500"'> </a>
 
