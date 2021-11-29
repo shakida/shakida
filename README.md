@@ -5,28 +5,17 @@
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       **[ՏհɑƘíժɑ](https://github.com/shakida/)**                                                                                |
 | <a href="https://github.com/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/github.svg" width="40px" height="40px"></a> <a href="https://t.me/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" width="40px" height="40px"></a> <a href="https://instagram.com/biswa.j.r"><img src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" width="40px" height="40px"></a> <a href="mailto:tollerdl.1234@gmail.com"><img src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" width="40px" height="40px"></a>|
-
-
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shakida)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Unofficial: tollerdl.1234@gmail.com)
-&nbsp;
-
-# MY STATUS
-
+### 💡 GitHub Stats
 ![ՏհɑƘíժɑ's github stats](https://github-readme-stats.vercel.app/api?username=shakida&show_icons=true&theme=midnight-purple)
+### 🔥 Github Streak Stats
+
+[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakida&theme=tokyonight_duo" alt="shakida" />](#)
+
 - ![Profile views](https://gpvc.arturio.dev/shakida)
 - [![GitHub followers](https://img.shields.io/github/followers/shakida.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shakida?tab=followers)
 ### 🏆 Github Profile Trophy
 
 [<img src="https://github-profile-trophy.vercel.app/?username=rokibhasansagar&theme=darkhub&no-bg=true&row=1" alt="shakida" />](#)
-### 🔥 Github Streak Stats
-
-[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakida&theme=tokyonight_duo" alt="shakida" />](#)
 
 ### 🔗 Social handler:
 [![biswajyoti_ray](https://img.icons8.com/fluent/48/000000/twitter.png)][https://twitter.com/biswajyoti_ray]
