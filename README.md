@@ -3,7 +3,7 @@
 |<a href="https://github.com/shakida"><img src="https://telegra.ph/file/049806d6b589bc355de83.jpg" width="300px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       **[ՏհɑƘíժɑ](https://github.com/shakida/)**                                                                                |
-| <a href="https://github.com/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/github.svg" width="40px" height="40px"></a> <a href="https://t.me/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" width="40px" height="40px"></a> <a href="https://instagram.com/biswa.j.r"><img src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" width="40px" height="40px"></a> <a href="mailto:tollerdl.1234@gmail.com"><img src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" width="40px" height="40px"></a>|
+| <a href="https://github.com/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/github.svg" width="40px" height="40px"></a> <a href="https://t.me/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" width="40px" height="40px"></a> <a href="mailto:tollerdl.1234@gmail.com"><img src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" width="40px" height="40px"></a>|
 ### 🍁 About me
 - 📚 I'm 19 years old student
 - 📖 I'm currently learning coding languages
