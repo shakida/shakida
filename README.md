@@ -10,7 +10,7 @@
 - 💡 I'm beginner can you teach me?
 - 🤗 You can ask me anything, *always friendly
 - ✨ I'm from West Bengal 🇮🇳 [India]
-- 🎶 I like listening to music
+- 🎶 I like to listening music
 ### 💡 GitHub Stats
 ![ՏհɑƘíժɑ's github stats](https://github-readme-stats.vercel.app/api?username=shakida&show_icons=true&theme=midnight-purple)
 ### 🔥 Github Streak Stats
