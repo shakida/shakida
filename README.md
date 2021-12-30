@@ -13,9 +13,6 @@
 - 🎶 I like to listening music
 - ![Profile views](https://gpvc.arturio.dev/shakida)
 
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31zskautytbg476wklhfyx3msxdm)
-
 ### 💡 GitHub Stats
 <!-- https://github.com/shakida -->
 <details> 
