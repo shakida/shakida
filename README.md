@@ -17,5 +17,6 @@
     <summary><b>💻 Profile Stats</b></summary>
 ![ՏհɑƘíժɑ's github stats](https://github-readme-stats.vercel.app/api?username=shakida&show_icons=true&theme=midnight-purple)
 [<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakida&theme=tokyonight_duo" alt="shakida" />](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?shakida=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakida&layout=compact)](https://github.com/shakida)
 [<img src="https://github-profile-trophy.vercel.app/?username=shakida&theme=darkhub&no-bg=true&row=1" alt="shakida" />](#)
+</details>
