@@ -14,7 +14,7 @@
 - ![Profile views](https://gpvc.arturio.dev/shakida)
 
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31zskautytbg476wklhfyx3msxdm)
 
 ### 💡 GitHub Stats
 <!-- https://github.com/shakida -->
