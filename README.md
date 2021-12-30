@@ -12,6 +12,10 @@
 - ✨ I'm from West Bengal 🇮🇳 [India]
 - 🎶 I like to listening music
 - ![Profile views](https://gpvc.arturio.dev/shakida)
+
+
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+
 ### 💡 GitHub Stats
 <!-- https://github.com/shakida -->
 <details> 
