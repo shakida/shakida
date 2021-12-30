@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F73A3A&lines=Hay+%F0%9F%91%8B+Bruh;Myself+Biswajyoti+Ray+%F0%9F%99%82;Can+you+teach+me+somthing%3F;Btw+take+love+from+me.)](https://git.io/typing-svg)
 
 | <a href="https://github.com/shakida"><img src="https://telegra.ph/file/049806d6b589bc355de83.jpg" width="200px" height="200px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
