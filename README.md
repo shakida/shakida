@@ -3,7 +3,7 @@
 | <a href="https://github.com/shakida"><img src="https://telegra.ph/file/049806d6b589bc355de83.jpg" width="200px" height="200px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       <b>[Biswajyoti Ray](https://github.com/shakida/)</b>                                                                              |
-| <a href="https://twitter.com/biswajyoti_ray"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/twitter.svg" width="40px" height="40px"></a> <a href="https://t.me/shakida"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/telegram.svg" width="40px" height="40px"></a> <a href="mailto:tollerdl.1234@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/email.svg" width="40px" height="40px"></a>|
+| <a href="https://twitter.com/biswajyoti_ray"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/twitter.svg" width="40px" height="40px"></a> <a href="https://t.me/shakida"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/telegram.svg" width="40px" height="40px"></a> <a href="mailto:tollerdl.1234@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/email.svg" width="40px" height="40px"></a> <a href="https://open.spotify.com/user/31zskautytbg476wklhfyx3msxdm?si=MLUThC4SQNq6viINQlmyeA&utm_source=copy-link"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/spotify.svg" width="40px" height="40px"></a>|
 ### 🍁 About me
 - 📚 I'm 19 years old student
 - 📖 I'm currently learning coding languages
