@@ -1,9 +1,9 @@
 # Hey, I am ՏհɑƘíժɑ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 align="center">|<a href="https://github.com/shakida"><img src="https://telegra.ph/file/049806d6b589bc355de83.jpg" width="200px" height="200px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------:|
-|       **[ՏհɑƘíժɑ](https://github.com/shakida/)**                                                                                |
-| <a href="https://github.com/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/github.svg" width="40px" height="40px"></a> <a href="https://t.me/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" width="40px" height="40px"></a> <a href="mailto:tollerdl.1234@gmail.com"><img src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" width="40px" height="40px"></a>|
+align="center">|:---------------------------------------------------------------------------------------------------------------------------------------:|
+align="center">|       **[ՏհɑƘíժɑ](https://github.com/shakida/)**                                                                                |
+align="center">| <a href="https://github.com/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/github.svg" width="40px" height="40px"></a> <a href="https://t.me/shakida"><img src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" width="40px" height="40px"></a> <a href="mailto:tollerdl.1234@gmail.com"><img src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" width="40px" height="40px"></a>|
 ### 🍁 About me
 - 📚 I'm 19 years old student
 - 📖 I'm currently learning coding languages
