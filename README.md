@@ -30,3 +30,6 @@
   </a>
   <br/>
 </details>
+
+### Join main Channel
+<a href="https://t.me/ShakidaUpdates"><img src="https://img.shields.io/badge/TG%20Channel-%D5%8F%D5%B0%C9%91%C6%98%C3%AD%D5%AA%C9%91%20%7C%20Updates-blueviolet?style=for-the-badge&logo=telegram" /></a>
